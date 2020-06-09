@@ -1,0 +1,795 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9990d945-f9bc-4cdd-9d6e-b0e72068f054" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/testcase/testcase_beauty.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/base/base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/main_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/page/main_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/mainpage_setting.py" beforeDir="false" afterPath="$PROJECT_DIR$/page/mainpage_setting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/photo.py" beforeDir="false" afterPath="$PROJECT_DIR$/page/photo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/setting_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/page/setting_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/pytest.ini" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/pytest.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/testcase_new.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/testparametrize.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gittest/CameraAuto" beforeDir="false" afterPath="$PROJECT_DIR$/../gittest/CameraAuto" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/cameraAuto$testcase_one.coverage" NAME="testcase_one Coverage Results" MODIFIED="1585902314226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/cameraAuto$testcase_simplify2.coverage" NAME="testcase_simplify2 Coverage Results" MODIFIED="1591065120531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/cameraAuto$testcase_mi.coverage" NAME="testcase_mi Coverage Results" MODIFIED="1585704440535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/cameraAuto$testcase_notvolume.coverage" NAME="testcase_notvolume Coverage Results" MODIFIED="1584510626733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/cameraAuto$testparametrize.coverage" NAME="testparametrize Coverage Results" MODIFIED="1584002984783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/cameraAuto$testcase_beautyvolume.coverage" NAME="testcase_beautyvolume Coverage Results" MODIFIED="1584180228520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/cameraAuto$testcase_olnly2.coverage" NAME="testcase_olnly2 Coverage Results" MODIFIED="1587693509828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/cameraAuto$testcase_repeat.coverage" NAME="testcase_repeat Coverage Results" MODIFIED="1584086302358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/cameraAuto$testcase_rerun.coverage" NAME="testcase_rerun Coverage Results" MODIFIED="1584152586791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/cameraAuto$testcase_beauty.coverage" NAME="testcase_beauty Coverage Results" MODIFIED="1585296731865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/cameraAuto$testcase.coverage" NAME="testcase Coverage Results" MODIFIED="1583823077485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/cameraAuto$testcase_huawei.coverage" NAME="testcase_huawei Coverage Results" MODIFIED="1585724440214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/cameraAuto$testcase_depth.coverage" NAME="testcase_depth Coverage Results" MODIFIED="1584086016272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/cameraAuto$testcase_onlyone.coverage" NAME="testcase_onlyone Coverage Results" MODIFIED="1585712031393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/cameraAuto$testcase_only.coverage" NAME="testcase_only Coverage Results" MODIFIED="1586758219840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/cameraAuto$testcase_video.coverage" NAME="testcase_video Coverage Results" MODIFIED="1584085939525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/cameraAuto$testcase_new.coverage" NAME="testcase_new Coverage Results" MODIFIED="1583921127267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/cameraAuto$testcase_notscreenshot.coverage" NAME="testcase_notscreenshot Coverage Results" MODIFIED="1585790737001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/cameraAuto$testcase_final_version.coverage" NAME="testcase_final_version Coverage Results" MODIFIED="1584697503178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="cameraAuto" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/testcase/testcase_olnly2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1955">
+              <caret line="2382" column="59" selection-start-line="2382" selection-start-column="59" selection-end-line="2382" selection-end-column="59" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+                <element signature="e#370#966#0" />
+                <element signature="e#996#1596#0" />
+                <element signature="e#1626#1935#0" />
+                <element signature="e#1971#2186#0" />
+                <element signature="e#2217#2596#0" />
+                <element signature="e#2630#3130#0" />
+                <element signature="e#3169#3624#0" />
+                <element signature="e#3658#4207#0" />
+                <element signature="e#4242#4701#0" />
+                <element signature="e#4741#5155#0" />
+                <element signature="e#5186#7296#0" />
+                <element signature="e#7330#7611#0" />
+                <element signature="e#7757#15317#0" />
+                <element signature="e#15492#21394#0" />
+                <element signature="e#21540#30309#0" />
+                <element signature="e#30482#37589#0" />
+                <element signature="e#37836#39661#0" />
+                <element signature="e#39817#43408#0" />
+                <element signature="e#43591#45981#0" />
+                <element signature="e#46139#50472#0" />
+                <element signature="e#50661#54110#0" />
+                <element signature="e#54280#61582#0" />
+                <element signature="e#61777#66987#0" />
+                <element signature="e#67125#75326#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testcase/testcase_simplify1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+                <element signature="e#370#966#0" />
+                <element signature="e#996#1596#0" />
+                <element signature="e#1626#1935#0" />
+                <element signature="e#1971#2186#0" />
+                <element signature="e#2217#2596#0" />
+                <element signature="e#2630#3130#0" />
+                <element signature="e#3169#3624#0" />
+                <element signature="e#3658#4207#0" />
+                <element signature="e#4242#4701#0" />
+                <element signature="e#4741#5155#0" />
+                <element signature="e#5186#7296#0" />
+                <element signature="e#7330#7611#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testcase/testcase_simplify2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="221" column="51" selection-start-line="221" selection-start-column="51" selection-end-line="221" selection-end-column="51" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+                <element signature="e#368#777#0" />
+                <element signature="e#807#1218#0" />
+                <element signature="e#1248#1475#0" />
+                <element signature="e#1511#1683#0" />
+                <element signature="e#1714#2112#0" />
+                <element signature="e#2146#2481#0" />
+                <element signature="e#2520#2828#0" />
+                <element signature="e#2862#3243#0" />
+                <element signature="e#3278#3589#0" />
+                <element signature="e#3629#3913#0" />
+                <element signature="e#6088#6369#0" />
+                <element signature="e#6515#10754#0" />
+                <element signature="e#10928#14497#0" />
+                <element signature="e#14657#20052#0" />
+                <element signature="e#20239#25037#0" />
+                <element signature="e#25256#26783#0" />
+                <element signature="e#26938#29659#0" />
+                <element signature="e#29841#31667#0" />
+                <element signature="e#31831#35325#0" />
+                <element signature="e#35520#38431#0" />
+                <element signature="e#38601#42643#0" />
+                <element signature="e#42837#45965#0" />
+                <element signature="e#46111#51047#0" />
+                <element signature="e#51222#55417#0" />
+                <element signature="e#55577#60740#0" />
+                <element signature="e#60915#65510#0" />
+                <element signature="e#65709#69513#0" />
+                <element signature="e#69678#75495#0" />
+                <element signature="e#75685#80716#0" />
+                <element signature="e#80750#81034#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testcase/pytest.ini">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/page/main_page.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="12474">
+              <caret line="567" column="4" selection-start-line="567" selection-start-column="4" selection-end-line="567" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/page/mainpage_setting.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/page/setting_page.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+              <folding>
+                <element signature="e#13#24#0" expanded="true" />
+                <element signature="e#8431#8641#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>3</find>
+      <find>GRID</find>
+      <find>前置</find>
+      <find>3s</find>
+      <find>timer_3</find>
+      <find>touch_screen()</find>
+      <find>get_new_photo</find>
+      <find>触屏拍照</find>
+      <find>快门声音</find>
+      <find>vide</find>
+      <find>on_off_hdr</find>
+      <find>volume_photos</find>
+      <find>error</find>
+      <find>time</find>
+      <find>time.sle</find>
+      <find>timer_10</find>
+      <find>volume</find>
+      <find>get_new</find>
+      <find>sleep</find>
+      <find>state</find>
+      <find>if state</find>
+      <find>parametrize_info</find>
+      <find>front_facing_xpath</find>
+      <find>对焦</find>
+      <find>触屏</find>
+      <find>网格线</find>
+      <find>快门</find>
+      <find>美视</find>
+      <find>score_end</find>
+      <find>time.sleep</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/testcase/testcase1_new.py" />
+        <option value="$PROJECT_DIR$/testcase/testcase1.py" />
+        <option value="$PROJECT_DIR$/testcase/testcase.py" />
+        <option value="$PROJECT_DIR$/testcase/testparametrize.py" />
+        <option value="$PROJECT_DIR$/testcase/testcase_new.py" />
+        <option value="$PROJECT_DIR$/testcase/testcase_repeat.py" />
+        <option value="$PROJECT_DIR$/testcase/testcase_rerun'.py" />
+        <option value="$PROJECT_DIR$/testcase/testcase_video.py" />
+        <option value="$PROJECT_DIR$/testcase/testcase_depth.py" />
+        <option value="$PROJECT_DIR$/testcase/testcase_rerun.py" />
+        <option value="$PROJECT_DIR$/testcase/testcase_beautyvolume.py" />
+        <option value="$PROJECT_DIR$/testcase/testcase_notvolume.py" />
+        <option value="$PROJECT_DIR$/testcase/log.conf" />
+        <option value="$PROJECT_DIR$/testcase/testcase_final_version.py" />
+        <option value="$PROJECT_DIR$/testcase/testcase_beauty.py" />
+        <option value="$PROJECT_DIR$/testcase/testcase_mi.py" />
+        <option value="$PROJECT_DIR$/testcase/testcase_onlyone.py" />
+        <option value="$PROJECT_DIR$/testcase/testcase_notscreenshot.py" />
+        <option value="$PROJECT_DIR$/testcase/testcase_huawei.py" />
+        <option value="$PROJECT_DIR$/testcase/testcase_one.py" />
+        <option value="$PROJECT_DIR$/page/mainpage_setting.py" />
+        <option value="$PROJECT_DIR$/testcase/testcase_only.py" />
+        <option value="$PROJECT_DIR$/testcase/1testcase_only.py" />
+        <option value="$PROJECT_DIR$/base/base.py" />
+        <option value="$PROJECT_DIR$/page/main_page.py" />
+        <option value="$PROJECT_DIR$/page/setting_page.py" />
+        <option value="$PROJECT_DIR$/testcase/testcase_simplify.py" />
+        <option value="$PROJECT_DIR$/page/photo.py" />
+        <option value="$PROJECT_DIR$/testcase/testcase_olnly2.py" />
+        <option value="$PROJECT_DIR$/testcase/testcase_simplify1.py" />
+        <option value="$PROJECT_DIR$/testcase/pytest.ini" />
+        <option value="$PROJECT_DIR$/testcase/testcase_simplify2.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="cameraAuto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cameraAuto" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cameraAuto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cameraAuto" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cameraAuto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cameraAuto" type="462c0819:PsiDirectoryNode" />
+              <item name="page" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cameraAuto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cameraAuto" type="462c0819:PsiDirectoryNode" />
+              <item name="testcase" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="F:/Camera_autotest/Q5707" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\AutoTest\cameraAuto\base\error" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\AutoTest\cameraAuto\page" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.testcase_simplify2">
+    <configuration name="testcase_notscreenshot" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="cameraAuto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testcase/testcase_notscreenshot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testcase_olnly2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="cameraAuto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testcase/testcase_olnly2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testcase_one" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="cameraAuto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testcase/testcase_one.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testcase_only" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="cameraAuto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="F:\R28-AutoTest\cameraAuto\testcase\1testcase_only.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testcase_simplify2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="cameraAuto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testcase/testcase_simplify2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.testcase_simplify2" />
+        <item itemvalue="Python.testcase_olnly2" />
+        <item itemvalue="Python.testcase_only" />
+        <item itemvalue="Python.testcase_one" />
+        <item itemvalue="Python.testcase_notscreenshot" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9990d945-f9bc-4cdd-9d6e-b0e72068f054" name="Default Changelist" comment="" />
+      <created>1582522720965</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582522720965</updated>
+      <workItem from="1582522722069" duration="586000" />
+      <workItem from="1583288855756" duration="60815000" />
+      <workItem from="1583473863429" duration="5069000" />
+      <workItem from="1583717671911" duration="119043000" />
+      <workItem from="1584081310053" duration="4279000" />
+      <workItem from="1584085828103" duration="37462000" />
+      <workItem from="1584321569411" duration="31592000" />
+      <workItem from="1584416787071" duration="26505000" />
+      <workItem from="1584514913520" duration="34629000" />
+      <workItem from="1584668690329" duration="24536000" />
+      <workItem from="1584699765761" duration="496000" />
+      <workItem from="1584926711913" duration="7546000" />
+      <workItem from="1584950208861" duration="3153000" />
+      <workItem from="1584955423911" duration="11614000" />
+      <workItem from="1585016590614" duration="21923000" />
+      <workItem from="1585100010686" duration="68713000" />
+      <workItem from="1585302374170" duration="3890000" />
+      <workItem from="1585362682990" duration="16515000" />
+      <workItem from="1585531540276" duration="32769000" />
+      <workItem from="1585704339082" duration="50546000" />
+      <workItem from="1585893340852" duration="10418000" />
+      <workItem from="1586225858187" duration="11921000" />
+      <workItem from="1586242391558" duration="31023000" />
+      <workItem from="1586421551811" duration="11087000" />
+      <workItem from="1586435494190" duration="51622000" />
+      <workItem from="1586741125210" duration="69010000" />
+      <workItem from="1586926080645" duration="33913000" />
+      <workItem from="1587103987967" duration="24485000" />
+      <workItem from="1587348856756" duration="36925000" />
+      <workItem from="1587459726280" duration="770000" />
+      <workItem from="1587461822047" duration="875000" />
+      <workItem from="1587463216326" duration="1056000" />
+      <workItem from="1587520344911" duration="406000" />
+      <workItem from="1587523074443" duration="599000" />
+      <workItem from="1587530300805" duration="4721000" />
+      <workItem from="1587605549198" duration="20544000" />
+      <workItem from="1587693013372" duration="41475000" />
+      <workItem from="1588217782080" duration="2069000" />
+      <workItem from="1588228506418" duration="766000" />
+      <workItem from="1588230886747" duration="597000" />
+      <workItem from="1588239410900" duration="562000" />
+      <workItem from="1588728102715" duration="14291000" />
+      <workItem from="1590977489729" duration="1937000" />
+      <workItem from="1590990387731" duration="2855000" />
+      <workItem from="1590995606725" duration="9126000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="944812000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49873418" visible="true" weight="0.17246597" />
+      <window_info id="Structure" order="1" sideWeight="0.5012658" side_tool="true" weight="0.24732825" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49923664" weight="0.3293718" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.5771558" visible="true" weight="0.15220949" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.17657046" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Python Console" order="6" weight="0.33878887" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.3289689" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.42284417" side_tool="true" weight="0.44026187" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.6415712" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.3453355" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32977098" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32977098" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49873418" visible="true" weight="0.25725192" />
+      <window_info id="Structure" order="1" sideWeight="0.5012658" side_tool="true" weight="0.24732825" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.20033956" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.48556876" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.29881155" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/base/error/2020-04-17-11-56-50photo_sum_error.png" />
+    <entry file="file://$PROJECT_DIR$/base/error/2020-04-17-11-56-47find_id_error.png" />
+    <entry file="file://$PROJECT_DIR$/base/error/2020-04-17-11-02-52find_id_error.png" />
+    <entry file="file://$PROJECT_DIR$/base/error/2020-04-17-11-57-44find_id_error.png" />
+    <entry file="file://$PROJECT_DIR$/base/error/2020-04-17-11-59-28photo_sum_error.png" />
+    <entry file="file://$PROJECT_DIR$/conftest.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/error/2020-04-17-16-07-58find_id_error.png" />
+    <entry file="file://$PROJECT_DIR$/base/error/2020-04-17-18-24-47find_id_error.png" />
+    <entry file="file://$PROJECT_DIR$/base/error/2020-04-18-21-36-26photo_sum_error.png" />
+    <entry file="file://$PROJECT_DIR$/base/error/2020-04-20-12-15-42photo_sum_error.png" />
+    <entry file="file://$PROJECT_DIR$/base/error/2020-04-20-12-22-11photo_sum_error.png" />
+    <entry file="file://$PROJECT_DIR$/base/error/2020-04-20-12-22-52find_id_error.png" />
+    <entry file="file://$PROJECT_DIR$/base/error/2020-04-20-12-24-06find_xpath_error.png" />
+    <entry file="file://$PROJECT_DIR$/base/error/2020-04-20-12-23-17photo_sum_error.png" />
+    <entry file="file://$PROJECT_DIR$/base/error/2020-04-20-12-24-08photo_sum_error.png" />
+    <entry file="file://$PROJECT_DIR$/base/error/2020-04-20-12-24-35find_id_error.png" />
+    <entry file="file://$PROJECT_DIR$/base/error/2020-04-21-15-28-00photo_sum_error.png" />
+    <entry file="file://$PROJECT_DIR$/base/error/2020-04-22-18-33-55photo_sum_error.png" />
+    <entry file="file://$PROJECT_DIR$/base/error/2020-04-21-16-51-49photo_sum_error.png" />
+    <entry file="file://$PROJECT_DIR$/base/error/2020-04-21-16-53-19find_xpath_error.png" />
+    <entry file="file://$PROJECT_DIR$/base/error/2020-04-21-16-54-00photo_sum_error.png" />
+    <entry file="file://$PROJECT_DIR$/base/error/2020-04-21-16-54-52find_id_error.png" />
+    <entry file="file://$PROJECT_DIR$/base/error/2020-04-23-12-31-07photo_sum_error.png" />
+    <entry file="file://$PROJECT_DIR$/base/error/2020-04-23-12-31-32photo_sum_error.png" />
+    <entry file="file://$PROJECT_DIR$/base/error/2020-04-23-12-31-58find_id_error.png" />
+    <entry file="file://$PROJECT_DIR$/base/error/2020-04-23-12-30-19photo_sum_error.png" />
+    <entry file="file://$PROJECT_DIR$/base/error/2020-04-23-14-50-57photo_sum_error.png" />
+    <entry file="file://$PROJECT_DIR$/base/error/2020-04-23-14-51-22find_xpath_error.png" />
+    <entry file="file://$PROJECT_DIR$/base/error/2020-04-23-14-51-23photo_sum_error.png" />
+    <entry file="file://$PROJECT_DIR$/base/error/2020-04-23-14-53-00find_id_error.png" />
+    <entry file="file://$PROJECT_DIR$/base/error/2020-04-23-14-52-34photo_sum_error.png" />
+    <entry file="file://$PROJECT_DIR$/base/error/2020-04-23-13-47-15find_xpath_error.png" />
+    <entry file="file://$PROJECT_DIR$/base/error/2020-04-24-17-10-12find_id_error.png" />
+    <entry file="file://$PROJECT_DIR$/base/error/2020-04-24-19-28-47find_id_error.png" />
+    <entry file="file://$PROJECT_DIR$/base/error/2020-04-24-19-33-53find_id_error.png" />
+    <entry file="file://$PROJECT_DIR$/base/error/2020-04-24-19-39-41find_id_error.png" />
+    <entry file="file://$PROJECT_DIR$/base/error/2020-04-25-05-50-40photo_sum_error.png" />
+    <entry file="file://$PROJECT_DIR$/base/error/2020-04-24-19-58-18photo_sum_error.png" />
+    <entry file="file://$PROJECT_DIR$/base/error/2020-04-30-11-56-27find_xpath_error.png" />
+    <entry file="file://$PROJECT_DIR$/page/photo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/error/2020-05-08-23-09-45find_id_error.png" />
+    <entry file="file://$PROJECT_DIR$/base/error/2020-05-08-23-13-33find_id_error.png" />
+    <entry file="file://$PROJECT_DIR$/base/error/2020-05-09-00-25-45find_xpath_error.png" />
+    <entry file="file://$PROJECT_DIR$/testcase/testcase_simplify1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#370#966#0" />
+            <element signature="e#996#1596#0" />
+            <element signature="e#1626#1935#0" />
+            <element signature="e#1971#2186#0" />
+            <element signature="e#2217#2596#0" />
+            <element signature="e#2630#3130#0" />
+            <element signature="e#3169#3624#0" />
+            <element signature="e#3658#4207#0" />
+            <element signature="e#4242#4701#0" />
+            <element signature="e#4741#5155#0" />
+            <element signature="e#5186#7296#0" />
+            <element signature="e#7330#7611#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/main_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12474">
+          <caret line="567" column="4" selection-start-line="567" selection-start-column="4" selection-end-line="567" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/mainpage_setting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/setting_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#13#24#0" expanded="true" />
+            <element signature="e#8431#8641#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/testcase_simplify2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="221" column="51" selection-start-line="221" selection-start-column="51" selection-end-line="221" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#368#777#0" />
+            <element signature="e#807#1218#0" />
+            <element signature="e#1248#1475#0" />
+            <element signature="e#1511#1683#0" />
+            <element signature="e#1714#2112#0" />
+            <element signature="e#2146#2481#0" />
+            <element signature="e#2520#2828#0" />
+            <element signature="e#2862#3243#0" />
+            <element signature="e#3278#3589#0" />
+            <element signature="e#3629#3913#0" />
+            <element signature="e#6088#6369#0" />
+            <element signature="e#6515#10754#0" />
+            <element signature="e#10928#14497#0" />
+            <element signature="e#14657#20052#0" />
+            <element signature="e#20239#25037#0" />
+            <element signature="e#25256#26783#0" />
+            <element signature="e#26938#29659#0" />
+            <element signature="e#29841#31667#0" />
+            <element signature="e#31831#35325#0" />
+            <element signature="e#35520#38431#0" />
+            <element signature="e#38601#42643#0" />
+            <element signature="e#42837#45965#0" />
+            <element signature="e#46111#51047#0" />
+            <element signature="e#51222#55417#0" />
+            <element signature="e#55577#60740#0" />
+            <element signature="e#60915#65510#0" />
+            <element signature="e#65709#69513#0" />
+            <element signature="e#69678#75495#0" />
+            <element signature="e#75685#80716#0" />
+            <element signature="e#80750#81034#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/pytest.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/testcase_olnly2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1955">
+          <caret line="2382" column="59" selection-start-line="2382" selection-start-column="59" selection-end-line="2382" selection-end-column="59" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#370#966#0" />
+            <element signature="e#996#1596#0" />
+            <element signature="e#1626#1935#0" />
+            <element signature="e#1971#2186#0" />
+            <element signature="e#2217#2596#0" />
+            <element signature="e#2630#3130#0" />
+            <element signature="e#3169#3624#0" />
+            <element signature="e#3658#4207#0" />
+            <element signature="e#4242#4701#0" />
+            <element signature="e#4741#5155#0" />
+            <element signature="e#5186#7296#0" />
+            <element signature="e#7330#7611#0" />
+            <element signature="e#7757#15317#0" />
+            <element signature="e#15492#21394#0" />
+            <element signature="e#21540#30309#0" />
+            <element signature="e#30482#37589#0" />
+            <element signature="e#37836#39661#0" />
+            <element signature="e#39817#43408#0" />
+            <element signature="e#43591#45981#0" />
+            <element signature="e#46139#50472#0" />
+            <element signature="e#50661#54110#0" />
+            <element signature="e#54280#61582#0" />
+            <element signature="e#61777#66987#0" />
+            <element signature="e#67125#75326#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
